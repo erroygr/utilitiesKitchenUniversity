@@ -99,3 +99,4 @@
         - Иначе -> Если ошибки нет/ неправильная маршрутизация заявки/ иная причина  - > статус заявки = отмена.
         
 
+![Image alt](https://github.com/erroygr/HomeIncident/blob/main/kitchen/СХЕМА%20БД.jpg)
