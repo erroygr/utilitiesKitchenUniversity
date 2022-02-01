@@ -1,0 +1,173 @@
+[
+    {
+        "idApplication": 1,
+        "idCitizen": {
+            "idCitizen": 1,
+            "firstNameCitizen": "Иван",
+            "lastNameCitizen": "Мерзляков",
+            "patronymicCitizen": "Владимирович",
+            "studentIdNumber": 4332122,
+            "dateBitth": "1999-02-09T21:00:00.000+00:00"
+        },
+        "exetutorComp": {
+            "idExetutorComp": 2,
+            "idIdCompanyCompany": {
+                "idCompany": 2,
+                "companyName": "Водоканал Воронеж",
+                "describtion": "Обсуживание водопровода в жилых помещениях",
+                "termContract": "2025-10-19T21:00:00.000+00:00",
+                "idTipeActiv": {
+                    "idTipeActiv": 2,
+                    "activName": "Служба Водоканал"
+                },
+                "telephoneComp": "8473321232"
+            },
+            "firstNameExetutorComp": "Иван",
+            "lastNameExetutorComp": "Артуров",
+            "patronymicExetutorComp": "Иванов",
+            "companyPost": "Старший слесарь",
+            "telephoneComp": "564422"
+        },
+        "typeApplication": {
+            "idTypeApplication": 3,
+            "nameTypeApplication": "Игровая"
+        },
+        "kindApplication": {
+            "idKindApplication": 3,
+            "nameKindApplication": "Обновление жилого имущества"
+        },
+        "statusApplication": {
+            "idStatusApplication": 3,
+            "nameStatusApplication": "Новая"
+        },
+        "locationDormitory": {
+            "idLocationDormitoryp": 3,
+            "streetLoc": "Ул. Карла Маркса",
+            "numHouseLoc": "5",
+            "numFloorLoc": "3",
+            "numRoomLoc": "43",
+            "describtionLoc": "Комната общежития на ул. Карла Маркса. на 3 этаже"
+        },
+        "describtionApplication": "Нужно купить новый стол, не хватает в комнате",
+        "dateStart": "2022-01-31T21:00:00.000+00:00",
+        "dateFinish": "2022-02-09T21:00:00.000+00:00",
+        "reasonApplication": {
+            "idReasonApplication": 5,
+            "nameReasonApplication": "-"
+        }
+    },
+    {
+        "idApplication": 2,
+        "idCitizen": {
+            "idCitizen": 2,
+            "firstNameCitizen": "Алина",
+            "lastNameCitizen": "Петровна",
+            "patronymicCitizen": "Ивановна",
+            "studentIdNumber": 5434321,
+            "dateBitth": "1998-12-23T21:00:00.000+00:00"
+        },
+        "exetutorComp": {
+            "idExetutorComp": 3,
+            "idIdCompanyCompany": {
+                "idCompany": 3,
+                "companyName": "УК ПИК Воронеж",
+                "describtion": "Обсуживание общедомового имущества",
+                "termContract": "2029-12-31T21:00:00.000+00:00",
+                "idTipeActiv": {
+                    "idTipeActiv": 1,
+                    "activName": "Газовая служба"
+                },
+                "telephoneComp": "8473356773"
+            },
+            "firstNameExetutorComp": "Никита",
+            "lastNameExetutorComp": "Щетинин",
+            "patronymicExetutorComp": "Сергеевич",
+            "companyPost": "Стажер-мастер",
+            "telephoneComp": "345667"
+        },
+        "typeApplication": {
+            "idTypeApplication": 2,
+            "nameTypeApplication": "Спорт.комплекс"
+        },
+        "kindApplication": {
+            "idKindApplication": 2,
+            "nameKindApplication": "Протечка газа"
+        },
+        "statusApplication": {
+            "idStatusApplication": 2,
+            "nameStatusApplication": "В обработке"
+        },
+        "locationDormitory": {
+            "idLocationDormitoryp": 3,
+            "streetLoc": "Ул. Карла Маркса",
+            "numHouseLoc": "5",
+            "numFloorLoc": "3",
+            "numRoomLoc": "43",
+            "describtionLoc": "Комната общежития на ул. Карла Маркса. на 3 этаже"
+        },
+        "describtionApplication": "Нужно посмотреть проводку",
+        "dateStart": "2022-02-11T21:00:00.000+00:00",
+        "dateFinish": "2022-02-21T21:00:00.000+00:00",
+        "reasonApplication": {
+            "idReasonApplication": 5,
+            "nameReasonApplication": "-"
+        }
+    },
+    {
+        "idApplication": 3,
+        "idCitizen": {
+            "idCitizen": 3,
+            "firstNameCitizen": "Петр",
+            "lastNameCitizen": "Лесков",
+            "patronymicCitizen": "Сергеевич",
+            "studentIdNumber": 7666633,
+            "dateBitth": "1997-07-17T20:00:00.000+00:00"
+        },
+        "exetutorComp": {
+            "idExetutorComp": 3,
+            "idIdCompanyCompany": {
+                "idCompany": 3,
+                "companyName": "УК ПИК Воронеж",
+                "describtion": "Обсуживание общедомового имущества",
+                "termContract": "2029-12-31T21:00:00.000+00:00",
+                "idTipeActiv": {
+                    "idTipeActiv": 1,
+                    "activName": "Газовая служба"
+                },
+                "telephoneComp": "8473356773"
+            },
+            "firstNameExetutorComp": "Никита",
+            "lastNameExetutorComp": "Щетинин",
+            "patronymicExetutorComp": "Сергеевич",
+            "companyPost": "Стажер-мастер",
+            "telephoneComp": "345667"
+        },
+        "typeApplication": {
+            "idTypeApplication": 4,
+            "nameTypeApplication": "Комнатная"
+        },
+        "kindApplication": {
+            "idKindApplication": 1,
+            "nameKindApplication": "Поломка труб"
+        },
+        "statusApplication": {
+            "idStatusApplication": 3,
+            "nameStatusApplication": "Новая"
+        },
+        "locationDormitory": {
+            "idLocationDormitoryp": 2,
+            "streetLoc": "Проспект Революции",
+            "numHouseLoc": "21",
+            "numFloorLoc": "2",
+            "numRoomLoc": "12",
+            "describtionLoc": "Зона релаксации общежития на Революции пр. на 2 этаже"
+        },
+        "describtionApplication": "Нужно посмотреть газ",
+        "dateStart": "2022-01-30T21:00:00.000+00:00",
+        "dateFinish": "2022-02-08T21:00:00.000+00:00",
+        "reasonApplication": {
+            "idReasonApplication": 5,
+            "nameReasonApplication": "-"
+        }
+    }
+]
