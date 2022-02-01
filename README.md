@@ -103,3 +103,9 @@
 
 ![Image alt](https://github.com/erroygr/HomeIncident/blob/main/kitchen/СХЕМА%20БД.jpg) 
 
+
+
+RestApi реализован ко всем таблицам бд, со всеми спообами взаимодействия (CRUD)
+
+![Image alt](https://github.com/erroygr/utilitiesKitchenUniversity/blob/master/все%20заявки%20запрос.PNG) 
+
